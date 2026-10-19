@@ -9,4 +9,3 @@ client.create_collection(
         size = 4,
         distance = models.Distance.COSINE,
     ))
-
