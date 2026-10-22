@@ -27,3 +27,9 @@
     text
     metadata:
         {'jabatan', 'tipe', 'nama'}
+
+4.  Profil tekkom
+    id
+    text
+    metadata:
+        {'tipe', 'ketegori_profil'}
