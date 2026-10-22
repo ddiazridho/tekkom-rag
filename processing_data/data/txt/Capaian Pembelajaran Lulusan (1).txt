@@ -1,0 +1,15 @@
+Capaian Pembelajaran Lulusan
+Program Studi Teknik Komputer Undip telah memiliki Capaian Pembelajaran Lulusan (CPL) sebagaimana tertuang dalam kurikulum Program Studi Teknik Komputer sebagai berikut:
+
+Capaian Pembelajaran Lulusan (CPL)
+
+1.	Mampu menerapkan pengetahuan matematis, ilmu alam, dan teknologi informasi untuk memperoleh pemahaman komprehensif dalam prinsip rekayasa komputer. (SCIENTIFIC KNOWLEDGE)
+2.	Mampu melakukan perancangan komponen, sistem, dan proses untuk memenuhi kebutuhan dalam batasan ekonomi, lingkungan, sosial, kesehatan, keselamatan, dan keberlanjutan serta mampu memanfaatkan potensi sumber daya lokal maupun nasional dalam perspektif global. (ENGINEERING DESIGN)
+3.	Mampu untuk mendesain dan melakukan riset, baik di laboratorium maupun di lapangan, termasuk menganalisis dan menginterpretasi data untuk memperkuat penilaian dalam proses rekayasa. (EXPERIMENTAL EXPLORATION)
+4.	Mampu untuk mengidentifikasi, merumuskan, menganalisis, dan menyelesaikan permasalahan kompleks di bidang Teknik Komputer dengan mempertimbangkan pemanfaatan sumber daya secara ekonomis, andal, dan berkelanjutan. (TECHNICAL ANALYSIS)
+5.	Memiliki keterampilan yang baik dalam menerapkan metode dan menggunakan peralatan yang dibutuhkan untuk melakukan rekayasa di bidang Teknik Komputer. (MASTERING MODERN TOOLS)
+6.	Mampu menyusun ide, hasil pemikiran, dan argumen saintifik sesuai kaidah akademik, serta dapat secara efektif mengkomunikasikan kepada masyarakat akademik dan masyarakat luas. (COMMUNICATION)
+7.	Memiliki kemampuan dalam melakukan perencanaan, penyelesaian, dan evaluasi tugas dalam suatu pekerjaan dengan bertanggung jawab dan memperhatikan batasan-batasan yang berlaku. (PROJECT MANAGEMENT)
+8.	Mampu bekerja sama secara efektif, baik sebagai anggota maupun pemimpin, dalam tim kerja lintas disiplin ilmu dan budaya. (TEAMWORK)
+9.	Mampu memahami kebutuhan akan pembelajaran sepanjang hayat termasuk beradaptasi terhadap perkembangan dan inovasi baru teknologi informasi yang cepat serta mampu menjadi agen perubahan serta memiliki rasa tanggung jawab dan etika profesi yang baik. (ETHICAL CONDUCT & LIFELONG LEARNING)
+10.	Mampu mengidentifikasi kebutuhan untuk menjadi seorang wirausaha di bidang komputer. (ENTERPRENEURSHIP)
